@@ -1,0 +1,6 @@
+12:42:21.355 [main] INFO  twitter.getTrends - TWEET CREATED!!
+12:45:00.897 [main] INFO  twitter.getTrends - done
+12:46:25.169 [main] INFO  twitter.getTrends - INDIAN TRENDS ARE DISPLAYED
+12:46:25.175 [main] INFO  twitter.getTrends - TRENDS IN US:
+12:46:25.176 [main] INFO  twitter.getTrends - TRENDS IN UK:
+12:46:25.176 [main] INFO  twitter.getTrends - TRENDS IN Israel:
